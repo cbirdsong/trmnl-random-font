@@ -28,6 +28,11 @@
       "weights": [400]
     },
     {
+      "name": "Audiowide",
+      "src": "https://fonts.googleapis.com/css2?family=Audiowide&display=block",
+      "weights": [400]
+    },
+    {
       "name": "Badeen Display",
       "src": "https://fonts.googleapis.com/css2?family=Badeen+Display&display=block",
       "weights": [400]
@@ -120,6 +125,11 @@
       "variable": true
     },
     {
+      "name": "Fascinate Inline",
+      "src": "https://fonts.googleapis.com/css2?family=Fascinate+Inline&display=block",
+      "weights": [400]
+    },
+    {
       "name": "Faster One",
       "src": "https://fonts.googleapis.com/css2?family=Faster+One&display=block",
       "weights": [400]
@@ -190,6 +200,11 @@
       "src": "https://fonts.googleapis.com/css2?family=Lemonada:wght@300..700&display=block",
       "weights": [300, 700],
       "variable": true
+    },
+    {
+      "name": "Limelight",
+      "src": "https://fonts.googleapis.com/css2?family=Limelight&display=block",
+      "weights": [400]
     },
     {
       "name": "Marhey",
@@ -442,6 +457,11 @@
       "src": "https://fonts.googleapis.com/css2?family=Stick+No+Bills:wght@200..800&display=block",
       "weights": [200, 800],
       "variable": true
+    },
+    {
+      "name": "Tac One",
+      "src": "https://fonts.googleapis.com/css2?family=Tac+One&display=block",
+      "weights": [400]
     },
     {
       "name": "Tilt Prism",
