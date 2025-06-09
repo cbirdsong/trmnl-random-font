@@ -1,0 +1,17 @@
+[
+  { "src": "https://fonts.googleapis.com/css2?family=Arbutus&display=block", "name": "Arbutus", "weights": [400] },
+  {
+    "src": "https://fonts.googleapis.com/css2?family=Grandstander:wght@100..900&display=block",
+    "name": "Grandstander",
+    "weights": [100, 900],
+    "variable": true
+  },
+  { "src": "https://fonts.googleapis.com/css2?family=Kablammo&display=block", "name": "Kablammo", "weights": [400] },
+  { "src": "https://fonts.googleapis.com/css2?family=Nabla&display=block", "name": "Nabla", "weights": [400] },
+  { "src": "https://fonts.googleapis.com/css2?family=Fascinate&display=block", "name": "Fascinate", "weights": [400] },
+  {
+    "src": "https://fonts.googleapis.com/css2?family=Uncial+Antiqua&display=block",
+    "name": "Uncial Antiqua",
+    "weights": [400]
+  }
+]

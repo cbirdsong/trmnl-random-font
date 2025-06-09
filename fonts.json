@@ -1,65 +1,338 @@
 [
-  { "name": "Advent Pro", "weights": [100, 900], "variable": true, "variations": { "wdth": [100, 200] } },
-  { "name": "Badeen Display", "weights": [400] },
-  { "name": "Barrio", "weights": [400] },
-  { "name": "Bodoni Moda SC", "weights": [400, 900], "variable": true },
-  { "name": "Bungee Shade", "weights": [400] },
-  { "name": "Butcherman", "weights": [400] },
-  { "name": "Caesar Dressing", "weights": [400] },
-  { "name": "Codystar", "weights": [300, 400], "variable": true },
-  { "name": "Creepster", "weights": [400] },
-  { "name": "Danfo", "weights": [400] },
-  { "name": "Diplomata SC", "weights": [400] },
-  { "name": "Dokdo", "weights": [400] },
-  { "name": "Doto", "weights": [100, 900], "variable": true, "variations": { "ROND": [0] } },
-  { "name": "DynaPuff", "weights": [400, 700], "variable": true, "variations": { "wdth": [75, 100] } },
-  { "name": "Ewert", "weights": [400] },
-  { "name": "Expletus Sans", "weights": [400, 700], "variable": true },
-  { "name": "Faster One", "weights": [400] },
-  { "name": "Foldit", "weights": [100, 900], "variable": true, "color": true },
-  { "name": "Frijole", "weights": [400] },
-  { "name": "Fruktur", "weights": [400] },
-  { "name": "Geostar", "weights": [400] },
-  { "name": "Grenze Gotisch", "weights": [100, 900], "variable": true },
-  { "name": "Handjet", "weights": [100, 900], "variable": true, "variations": { "ELGR": [1, 2], "ELSH": [0, 16] } },
-  { "name": "Kenia", "weights": [400] },
-  { "name": "Lemonada", "weights": [300, 700], "variable": true },
-  { "name": "Marhey", "weights": [300, 700], "variable": true },
-  { "name": "Merienda", "weights": [300, 900], "variable": true },
-  { "name": "Metal Mania", "weights": [400] },
-  { "name": "Monofett", "weights": [400] },
-  { "name": "Monoton", "weights": [400] },
-  { "name": "New Rocker", "weights": [400] },
-  { "name": "Orbitron", "weights": [400, 900], "variable": true },
-  { "name": "Permanent Marker", "weights": [400] },
-  { "name": "Pixelify Sans", "weights": [400, 700], "variable": true },
-  { "name": "Rubik 80s Fade", "weights": [400] },
-  { "name": "Rubik Beastly", "weights": [400] },
-  { "name": "Rubik Burned", "weights": [400] },
-  { "name": "Rubik Dirt", "weights": [400] },
-  { "name": "Rubik Doodle Shadow", "weights": [400] },
-  { "name": "Rubik Doodle Triangles", "weights": [400] },
-  { "name": "Rubik Gemstones", "weights": [400] },
-  { "name": "Rubik Glitch Pop", "weights": [400] },
-  { "name": "Rubik Glitch", "weights": [400] },
-  { "name": "Rubik Lines", "weights": [400] },
-  { "name": "Rubik Maps", "weights": [400] },
-  { "name": "Rubik Marker Hatch", "weights": [400] },
-  { "name": "Rubik Maze", "weights": [400] },
-  { "name": "Rubik Microbe", "weights": [400] },
-  { "name": "Rubik Pixels", "weights": [400] },
-  { "name": "Rubik Puddles", "weights": [400] },
-  { "name": "Rubik Storm", "weights": [400] },
-  { "name": "Rubik Vinyl", "weights": [400] },
-  { "name": "Rubik Wet Paint", "weights": [400] },
-  { "name": "Saira Stencil One", "weights": [400] },
-  { "name": "Sour Gummy", "weights": [100, 900], "variable": true, "variations": { "wdth": [100, 125] } },
-  { "name": "Stalinist One", "weights": [400] },
-  { "name": "Stick No Bills", "weights": [200, 800], "variable": true },
-  { "name": "Texturina", "weights": [100, 900], "variable": true },
-  { "name": "Tilt Prism", "weights": [400] },
-  { "name": "Tourney", "weights": [100, 900], "variable": true, "variations": { "wdth": [75, 125] } },
-  { "name": "Trade Winds", "weights": [400] },
-  { "name": "UnifrakturMaguntia", "weights": [400] },
-  { "name": "Workbench", "weights": [400] }
+  {
+    "src": "https://fonts.googleapis.com/css2?family=Advent+Pro:wdth,wght@100..200,100..900&display=block",
+    "name": "Advent Pro",
+    "weights": [100, 900],
+    "variable": true,
+    "variations": { "wdth": [100, 200] }
+  },
+  {
+    "src": "https://fonts.googleapis.com/css2?family=Badeen+Display&display=block",
+    "name": "Badeen Display",
+    "weights": [400]
+  },
+  {
+    "src": "https://fonts.googleapis.com/css2?family=Barrio&display=block",
+    "name": "Barrio",
+    "weights": [400]
+  },
+  {
+    "src": "https://fonts.googleapis.com/css2?family=Bodoni+Moda+SC:opsz,wght@6..96,400..900&display=block",
+    "name": "Bodoni Moda SC",
+    "weights": [400, 900],
+    "variable": true
+  },
+  {
+    "src": "https://fonts.googleapis.com/css2?family=Bungee+Shade&display=block",
+    "name": "Bungee Shade",
+    "weights": [400]
+  },
+  {
+    "src": "https://fonts.googleapis.com/css2?family=Butcherman&display=block",
+    "name": "Butcherman",
+    "weights": [400]
+  },
+  {
+    "src": "https://fonts.googleapis.com/css2?family=Caesar+Dressing&display=block",
+    "name": "Caesar Dressing",
+    "weights": [400]
+  },
+  {
+    "src": "https://fonts.googleapis.com/css2?family=Codystar:wght@300;400&display=block",
+    "name": "Codystar",
+    "weights": [300, 400],
+    "variable": true
+  },
+  {
+    "src": "https://fonts.googleapis.com/css2?family=Creepster&display=block",
+    "name": "Creepster",
+    "weights": [400]
+  },
+  {
+    "src": "https://fonts.googleapis.com/css2?family=Danfo&display=block",
+    "name": "Danfo",
+    "weights": [400]
+  },
+  {
+    "src": "https://fonts.googleapis.com/css2?family=Diplomata+SC&display=block",
+    "name": "Diplomata SC",
+    "weights": [400]
+  },
+  {
+    "src": "https://fonts.googleapis.com/css2?family=Dokdo&display=block",
+    "name": "Dokdo",
+    "weights": [400]
+  },
+  {
+    "src": "https://fonts.googleapis.com/css2?family=Doto:wght@100..900&display=block",
+    "name": "Doto",
+    "weights": [100, 900],
+    "variable": true,
+    "variations": { "ROND": [0] }
+  },
+  {
+    "src": "https://fonts.googleapis.com/css2?family=DynaPuff:wght@400..700&display=block",
+    "name": "DynaPuff",
+    "weights": [400, 700],
+    "variable": true,
+    "variations": { "wdth": [75, 100] }
+  },
+  {
+    "src": "https://fonts.googleapis.com/css2?family=Ewert&display=block",
+    "name": "Ewert",
+    "weights": [400]
+  },
+  {
+    "src": "https://fonts.googleapis.com/css2?family=Expletus+Sans:wght@400..700&display=block",
+    "name": "Expletus Sans",
+    "weights": [400, 700],
+    "variable": true
+  },
+  {
+    "src": "https://fonts.googleapis.com/css2?family=Faster+One&display=block",
+    "name": "Faster One",
+    "weights": [400]
+  },
+  {
+    "src": "https://fonts.googleapis.com/css2?family=Foldit:wght@100..900&display=block",
+    "name": "Foldit",
+    "weights": [100, 900],
+    "variable": true,
+    "color": true
+  },
+  {
+    "src": "https://fonts.googleapis.com/css2?family=Frijole&display=block",
+    "name": "Frijole",
+    "weights": [400]
+  },
+  {
+    "src": "https://fonts.googleapis.com/css2?family=Fruktur&display=block",
+    "name": "Fruktur",
+    "weights": [400]
+  },
+  {
+    "src": "https://fonts.googleapis.com/css2?family=Geostar&display=block",
+    "name": "Geostar",
+    "weights": [400]
+  },
+  {
+    "src": "https://fonts.googleapis.com/css2?family=Grenze+Gotisch:wght@100..900&display=block",
+    "name": "Grenze Gotisch",
+    "weights": [100, 900],
+    "variable": true
+  },
+  {
+    "src": "https://fonts.googleapis.com/css2?family=Handjet:wght,ELGR,ELSH@100..900,1..2,0..16&display=block",
+    "name": "Handjet",
+    "weights": [100, 900],
+    "variable": true,
+    "variations": { "ELGR": [1, 2], "ELSH": [0, 16] }
+  },
+  { "src": "https://fonts.googleapis.com/css2?family=Kenia&display=block", "name": "Kenia", "weights": [400] },
+  {
+    "src": "https://fonts.googleapis.com/css2?family=Lemonada:wght@300..700&display=block",
+    "name": "Lemonada",
+    "weights": [300, 700],
+    "variable": true
+  },
+  {
+    "src": "https://fonts.googleapis.com/css2?family=Marhey:wght@300..700&display=block",
+    "name": "Marhey",
+    "weights": [300, 700],
+    "variable": true
+  },
+  {
+    "src": "https://fonts.googleapis.com/css2?family=Merienda:wght@300..900&display=block",
+    "name": "Merienda",
+    "weights": [300, 900],
+    "variable": true
+  },
+  {
+    "src": "https://fonts.googleapis.com/css2?family=Metal+Mania&display=block",
+    "name": "Metal Mania",
+    "weights": [400]
+  },
+  {
+    "src": "https://fonts.googleapis.com/css2?family=Monofett&display=block",
+    "name": "Monofett",
+    "weights": [400]
+  },
+  {
+    "src": "https://fonts.googleapis.com/css2?family=Monoton&display=block",
+    "name": "Monoton",
+    "weights": [400]
+  },
+  {
+    "src": "https://fonts.googleapis.com/css2?family=New+Rocker&display=block",
+    "name": "New Rocker",
+    "weights": [400]
+  },
+  {
+    "src": "https://fonts.googleapis.com/css2?family=Orbitron:wght@400..900&display=block",
+    "name": "Orbitron",
+    "weights": [400, 900],
+    "variable": true
+  },
+  {
+    "src": "https://fonts.googleapis.com/css2?family=Permanent+Marker&display=block",
+    "name": "Permanent Marker",
+    "weights": [400]
+  },
+  {
+    "src": "https://fonts.googleapis.com/css2?family=Pixelify+Sans:wght@400..700&display=block",
+    "name": "Pixelify Sans",
+    "weights": [400, 700],
+    "variable": true
+  },
+  {
+    "src": "https://fonts.googleapis.com/css2?family=Rubik+80s+Fade&display=block",
+    "name": "Rubik 80s Fade",
+    "weights": [400]
+  },
+  {
+    "src": "https://fonts.googleapis.com/css2?family=Rubik+Beastly&display=block",
+    "name": "Rubik Beastly",
+    "weights": [400]
+  },
+  {
+    "src": "https://fonts.googleapis.com/css2?family=Rubik+Burned&display=block",
+    "name": "Rubik Burned",
+    "weights": [400]
+  },
+  {
+    "src": "https://fonts.googleapis.com/css2?family=Rubik+Dirt&display=block",
+    "name": "Rubik Dirt",
+    "weights": [400]
+  },
+  {
+    "src": "https://fonts.googleapis.com/css2?family=Rubik+Doodle+Shadow&display=block",
+    "name": "Rubik Doodle Shadow",
+    "weights": [400]
+  },
+  {
+    "src": "https://fonts.googleapis.com/css2?family=Rubik+Doodle+Triangles&display=block",
+    "name": "Rubik Doodle Triangles",
+    "weights": [400]
+  },
+  {
+    "src": "https://fonts.googleapis.com/css2?family=Rubik+Gemstones&display=block",
+    "name": "Rubik Gemstones",
+    "weights": [400]
+  },
+  {
+    "src": "https://fonts.googleapis.com/css2?family=Rubik+Glitch&display=block",
+    "name": "Rubik Glitch Pop",
+    "weights": [400]
+  },
+  {
+    "src": "https://fonts.googleapis.com/css2?family=Rubik+Glitch+Pop&display=block",
+    "name": "Rubik Glitch",
+    "weights": [400]
+  },
+  {
+    "src": "https://fonts.googleapis.com/css2?family=Rubik+Lines&display=block",
+    "name": "Rubik Lines",
+    "weights": [400]
+  },
+  {
+    "src": "https://fonts.googleapis.com/css2?family=Rubik+Maps&display=block",
+    "name": "Rubik Maps",
+    "weights": [400]
+  },
+  {
+    "src": "https://fonts.googleapis.com/css2?family=Rubik+Marker+Hatch&display=block",
+    "name": "Rubik Marker Hatch",
+    "weights": [400]
+  },
+  {
+    "src": "https://fonts.googleapis.com/css2?family=Rubik+Maze&display=block",
+    "name": "Rubik Maze",
+    "weights": [400]
+  },
+  {
+    "src": "https://fonts.googleapis.com/css2?family=Rubik+Microbe&display=block",
+    "name": "Rubik Microbe",
+    "weights": [400]
+  },
+  {
+    "src": "https://fonts.googleapis.com/css2?family=Rubik+Pixels&display=block",
+    "name": "Rubik Pixels",
+    "weights": [400]
+  },
+  {
+    "src": "https://fonts.googleapis.com/css2?family=Rubik+Puddles&display=block",
+    "name": "Rubik Puddles",
+    "weights": [400]
+  },
+  {
+    "src": "https://fonts.googleapis.com/css2?family=Rubik+Storm&display=block",
+    "name": "Rubik Storm",
+    "weights": [400]
+  },
+  {
+    "src": "https://fonts.googleapis.com/css2?family=Rubik+Vinyl&display=block",
+    "name": "Rubik Vinyl",
+    "weights": [400]
+  },
+  {
+    "src": "https://fonts.googleapis.com/css2?family=Rubik+Wet+Paint&display=block",
+    "name": "Rubik Wet Paint",
+    "weights": [400]
+  },
+  {
+    "src": "https://fonts.googleapis.com/css2?family=Saira+Stencil+One&display=block",
+    "name": "Saira Stencil One",
+    "weights": [400]
+  },
+  {
+    "src": "https://fonts.googleapis.com/css2?family=Sour+Gummy:wght@100..900&display=block",
+    "name": "Sour Gummy",
+    "weights": [100, 900],
+    "variable": true,
+    "variations": { "wdth": [100, 125] }
+  },
+  {
+    "src": "https://fonts.googleapis.com/css2?family=Stalinist+One&display=block",
+    "name": "Stalinist One",
+    "weights": [400]
+  },
+  {
+    "src": "https://fonts.googleapis.com/css2?family=Stick+No+Bills:wght@200..800&display=block",
+    "name": "Stick No Bills",
+    "weights": [200, 800],
+    "variable": true
+  },
+  {
+    "src": "https://fonts.googleapis.com/css2?family=Texturina:ital,opsz,wght@0,12..72,100..900;1,12..72,100..900&display=block",
+    "name": "Texturina",
+    "weights": [100, 900],
+    "variable": true
+  },
+  {
+    "src": "https://fonts.googleapis.com/css2?family=Tilt+Prism&display=block",
+    "name": "Tilt Prism",
+    "weights": [400]
+  },
+  {
+    "src": "https://fonts.googleapis.com/css2?family=Tourney:wdth,wght@75..125,100..900&display=block",
+    "name": "Tourney",
+    "weights": [100, 900],
+    "variable": true,
+    "variations": { "wdth": [75, 125] }
+  },
+  {
+    "src": "https://fonts.googleapis.com/css2?family=Trade+Winds&display=block",
+    "name": "Trade Winds",
+    "weights": [400]
+  },
+  {
+    "src": "https://fonts.googleapis.com/css2?family=UnifrakturMaguntia&display=block",
+    "name": "UnifrakturMaguntia",
+    "weights": [400]
+  },
+  {
+    "src": "https://fonts.googleapis.com/css2?family=Workbench&display=block",
+    "name": "Workbench",
+    "weights": [400]
+  }
 ]
