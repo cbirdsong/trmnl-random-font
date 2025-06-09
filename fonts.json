@@ -1,326 +1,488 @@
 {
   "fonts": [
     {
-      "src": "https://fonts.googleapis.com/css2?family=Advent+Pro:wdth,wght@100..200,100..900&display=block",
       "name": "Advent Pro",
+      "src": "https://fonts.googleapis.com/css2?family=Advent+Pro:wdth,wght@100..200,100..900&display=block",
       "weights": [100, 900],
       "variable": true,
       "variations": { "wdth": [100, 200] }
     },
     {
-      "src": "https://fonts.googleapis.com/css2?family=Badeen+Display&display=block",
+      "name": "Akronim",
+      "src": "https://fonts.googleapis.com/css2?family=Akronim&display=block",
+      "weights": [400]
+    },
+    {
+      "name": "Aladin",
+      "src": "https://fonts.googleapis.com/css2?family=Aladin&display=block",
+      "weights": [400]
+    },
+    {
+      "name": "Arbutus",
+      "src": "https://fonts.googleapis.com/css2?family=Arbutus&display=block",
+      "weights": [400]
+    },
+    {
+      "name": "Asset",
+      "src": "https://fonts.googleapis.com/css2?family=Asset&display=block",
+      "weights": [400]
+    },
+    {
       "name": "Badeen Display",
+      "src": "https://fonts.googleapis.com/css2?family=Badeen+Display&display=block",
       "weights": [400]
     },
     {
-      "src": "https://fonts.googleapis.com/css2?family=Barrio&display=block",
       "name": "Barrio",
+      "src": "https://fonts.googleapis.com/css2?family=Barrio&display=block",
       "weights": [400]
     },
     {
-      "src": "https://fonts.googleapis.com/css2?family=Bodoni+Moda+SC:opsz,wght@6..96,400..900&display=block",
       "name": "Bodoni Moda SC",
+      "src": "https://fonts.googleapis.com/css2?family=Bodoni+Moda+SC:opsz,wght@6..96,400..900&display=block",
       "weights": [400, 900],
       "variable": true
     },
     {
-      "src": "https://fonts.googleapis.com/css2?family=Bungee+Shade&display=block",
       "name": "Bungee Shade",
+      "src": "https://fonts.googleapis.com/css2?family=Bungee+Shade&display=block",
       "weights": [400]
     },
     {
-      "src": "https://fonts.googleapis.com/css2?family=Butcherman&display=block",
       "name": "Butcherman",
+      "src": "https://fonts.googleapis.com/css2?family=Butcherman&display=block",
       "weights": [400]
     },
     {
-      "src": "https://fonts.googleapis.com/css2?family=Caesar+Dressing&display=block",
       "name": "Caesar Dressing",
+      "src": "https://fonts.googleapis.com/css2?family=Caesar+Dressing&display=block",
       "weights": [400]
     },
     {
-      "src": "https://fonts.googleapis.com/css2?family=Codystar:wght@300;400&display=block",
+      "name": "Chango",
+      "src": "https://fonts.googleapis.com/css2?family=Chango&display=block",
+      "weights": [400]
+    },
+    {
+      "name": "Cherry Bomb One",
+      "src": "https://fonts.googleapis.com/css2?family=Cherry+Bomb+One&display=block",
+      "weights": [400]
+    },
+    {
       "name": "Codystar",
+      "src": "https://fonts.googleapis.com/css2?family=Codystar:wght@300;400&display=block",
       "weights": [300, 400],
       "variable": true
     },
     {
-      "src": "https://fonts.googleapis.com/css2?family=Creepster&display=block",
       "name": "Creepster",
+      "src": "https://fonts.googleapis.com/css2?family=Creepster&display=block",
       "weights": [400]
     },
     {
-      "src": "https://fonts.googleapis.com/css2?family=Danfo&display=block",
       "name": "Danfo",
+      "src": "https://fonts.googleapis.com/css2?family=Danfo&display=block",
       "weights": [400]
     },
     {
-      "src": "https://fonts.googleapis.com/css2?family=Diplomata+SC&display=block",
       "name": "Diplomata SC",
+      "src": "https://fonts.googleapis.com/css2?family=Diplomata+SC&display=block",
       "weights": [400]
     },
     {
-      "src": "https://fonts.googleapis.com/css2?family=Dokdo&display=block",
       "name": "Dokdo",
+      "src": "https://fonts.googleapis.com/css2?family=Dokdo&display=block",
       "weights": [400]
     },
     {
-      "src": "https://fonts.googleapis.com/css2?family=Doto:wght@100..900&display=block",
       "name": "Doto",
+      "src": "https://fonts.googleapis.com/css2?family=Doto:wght@100..900&display=block",
       "weights": [100, 900],
       "variable": true,
       "variations": { "ROND": [0] }
     },
     {
-      "src": "https://fonts.googleapis.com/css2?family=DynaPuff:wght@400..700&display=block",
       "name": "DynaPuff",
+      "src": "https://fonts.googleapis.com/css2?family=DynaPuff:wght@400..700&display=block",
       "weights": [400, 700],
       "variable": true,
       "variations": { "wdth": [75, 100] }
     },
     {
-      "src": "https://fonts.googleapis.com/css2?family=Ewert&display=block",
       "name": "Ewert",
+      "src": "https://fonts.googleapis.com/css2?family=Ewert&display=block",
       "weights": [400]
     },
     {
-      "src": "https://fonts.googleapis.com/css2?family=Expletus+Sans:wght@400..700&display=block",
       "name": "Expletus Sans",
+      "src": "https://fonts.googleapis.com/css2?family=Expletus+Sans:wght@400..700&display=block",
       "weights": [400, 700],
       "variable": true
     },
     {
-      "src": "https://fonts.googleapis.com/css2?family=Faster+One&display=block",
       "name": "Faster One",
+      "src": "https://fonts.googleapis.com/css2?family=Faster+One&display=block",
       "weights": [400]
     },
     {
-      "src": "https://fonts.googleapis.com/css2?family=Frijole&display=block",
+      "name": "Freckle Face",
+      "src": "https://fonts.googleapis.com/css2?family=Freckle+Face&display=block",
+      "weights": [400]
+    },
+    {
+      "name": "Fredericka the Great",
+      "src": "https://fonts.googleapis.com/css2?family=Fredericka+the+Great&display=block",
+      "weights": [400]
+    },
+    {
       "name": "Frijole",
+      "src": "https://fonts.googleapis.com/css2?family=Frijole&display=block",
       "weights": [400]
     },
     {
-      "src": "https://fonts.googleapis.com/css2?family=Fruktur&display=block",
       "name": "Fruktur",
+      "src": "https://fonts.googleapis.com/css2?family=Fruktur&display=block",
       "weights": [400]
     },
     {
-      "src": "https://fonts.googleapis.com/css2?family=Geostar&display=block",
       "name": "Geostar",
+      "src": "https://fonts.googleapis.com/css2?family=Geostar&display=block",
       "weights": [400]
     },
     {
-      "src": "https://fonts.googleapis.com/css2?family=Grenze+Gotisch:wght@100..900&display=block",
-      "name": "Grenze Gotisch",
+      "name": "Grandstander",
+      "src": "https://fonts.googleapis.com/css2?family=Grandstander:wght@100..900&display=block",
       "weights": [100, 900],
       "variable": true
     },
     {
-      "src": "https://fonts.googleapis.com/css2?family=Handjet:wght,ELGR,ELSH@100..900,1..2,0..16&display=block",
+      "name": "Grenze Gotisch",
+      "src": "https://fonts.googleapis.com/css2?family=Grenze+Gotisch:wght@100..900&display=block",
+      "weights": [100, 900],
+      "variable": true
+    },
+    {
       "name": "Handjet",
+      "src": "https://fonts.googleapis.com/css2?family=Handjet:wght,ELGR,ELSH@100..900,1..2,0..16&display=block",
       "weights": [100, 900],
       "variable": true,
       "variations": { "ELGR": [1, 2], "ELSH": [0, 16] }
     },
-    { "src": "https://fonts.googleapis.com/css2?family=Kenia&display=block", "name": "Kenia", "weights": [400] },
     {
-      "src": "https://fonts.googleapis.com/css2?family=Lemonada:wght@300..700&display=block",
+      "name": "Jacquard 24",
+      "src": "https://fonts.googleapis.com/css2?family=Jacquard+24&display=block",
+      "weights": [400]
+    },
+    {
+      "name": "Kablammo",
+      "src": "https://fonts.googleapis.com/css2?family=Kablammo&display=block",
+      "weights": [400],
+      "variable": true,
+      "variations": { "MORF": [0, 60] }
+    },
+    {
+      "name": "Kenia",
+      "src": "https://fonts.googleapis.com/css2?family=Kenia&display=block",
+      "weights": [400]
+    },
+    {
       "name": "Lemonada",
+      "src": "https://fonts.googleapis.com/css2?family=Lemonada:wght@300..700&display=block",
       "weights": [300, 700],
       "variable": true
     },
     {
-      "src": "https://fonts.googleapis.com/css2?family=Marhey:wght@300..700&display=block",
       "name": "Marhey",
+      "src": "https://fonts.googleapis.com/css2?family=Marhey:wght@300..700&display=block",
       "weights": [300, 700],
       "variable": true
     },
     {
-      "src": "https://fonts.googleapis.com/css2?family=Merienda:wght@300..900&display=block",
       "name": "Merienda",
+      "src": "https://fonts.googleapis.com/css2?family=Merienda:wght@300..900&display=block",
       "weights": [300, 900],
       "variable": true
     },
     {
-      "src": "https://fonts.googleapis.com/css2?family=Metal+Mania&display=block",
       "name": "Metal Mania",
+      "src": "https://fonts.googleapis.com/css2?family=Metal+Mania&display=block",
       "weights": [400]
     },
     {
-      "src": "https://fonts.googleapis.com/css2?family=Monofett&display=block",
+      "name": "Modak",
+      "src": "https://fonts.googleapis.com/css2?family=Modak&display=block",
+      "weights": [400]
+    },
+    {
       "name": "Monofett",
+      "src": "https://fonts.googleapis.com/css2?family=Monofett&display=block",
       "weights": [400]
     },
     {
-      "src": "https://fonts.googleapis.com/css2?family=Monoton&display=block",
       "name": "Monoton",
+      "src": "https://fonts.googleapis.com/css2?family=Monoton&display=block",
       "weights": [400]
     },
     {
-      "src": "https://fonts.googleapis.com/css2?family=New+Rocker&display=block",
+      "name": "Nabla",
+      "src": "https://fonts.googleapis.com/css2?family=Nabla&display=block",
+      "weights": [400]
+    },
+    {
+      "name": "Neonderthaw",
+      "src": "https://fonts.googleapis.com/css2?family=Neonderthaw&display=block",
+      "weights": [400]
+    },
+    {
       "name": "New Rocker",
+      "src": "https://fonts.googleapis.com/css2?family=New+Rocker&display=block",
       "weights": [400]
     },
     {
-      "src": "https://fonts.googleapis.com/css2?family=Orbitron:wght@400..900&display=block",
+      "name": "Oi",
+      "src": "https://fonts.googleapis.com/css2?family=Oi&display=block",
+      "weights": [400]
+    },
+    {
       "name": "Orbitron",
+      "src": "https://fonts.googleapis.com/css2?family=Orbitron:wght@400..900&display=block",
       "weights": [400, 900],
       "variable": true
     },
     {
-      "src": "https://fonts.googleapis.com/css2?family=Permanent+Marker&display=block",
-      "name": "Permanent Marker",
+      "name": "Pacifico",
+      "src": "https://fonts.googleapis.com/css2?family=Pacifico&display=block",
       "weights": [400]
     },
     {
-      "src": "https://fonts.googleapis.com/css2?family=Pixelify+Sans:wght@400..700&display=block",
+      "name": "Palette Mosaic",
+      "src": "https://fonts.googleapis.com/css2?family=Palette+Mosaic&display=block",
+      "weights": [400]
+    },
+    {
+      "name": "Permanent Marker",
+      "src": "https://fonts.googleapis.com/css2?family=Permanent+Marker&display=block",
+      "weights": [400]
+    },
+    {
       "name": "Pixelify Sans",
+      "src": "https://fonts.googleapis.com/css2?family=Pixelify+Sans:wght@400..700&display=block",
       "weights": [400, 700],
       "variable": true
     },
     {
-      "src": "https://fonts.googleapis.com/css2?family=Rubik+80s+Fade&display=block",
+      "name": "Plaster",
+      "src": "https://fonts.googleapis.com/css2?family=Plaster&display=block",
+      "weights": [400]
+    },
+    {
+      "name": "Qahiri",
+      "src": "https://fonts.googleapis.com/css2?family=Qahiri&display=block",
+      "weights": [400]
+    },
+    {
+      "name": "Racing Sans One",
+      "src": "https://fonts.googleapis.com/css2?family=Racing+Sans+One&display=block",
+      "weights": [400]
+    },
+    {
+      "name": "Ribeye",
+      "src": "https://fonts.googleapis.com/css2?family=Ribeye&display=block",
+      "weights": [400]
+    },
+    {
+      "name": "Rock 3D",
+      "src": "https://fonts.googleapis.com/css2?family=Rock+3D&display=block",
+      "weights": [400]
+    },
+    {
       "name": "Rubik 80s Fade",
+      "src": "https://fonts.googleapis.com/css2?family=Rubik+80s+Fade&display=block",
       "weights": [400]
     },
     {
-      "src": "https://fonts.googleapis.com/css2?family=Rubik+Beastly&display=block",
       "name": "Rubik Beastly",
+      "src": "https://fonts.googleapis.com/css2?family=Rubik+Beastly&display=block",
       "weights": [400]
     },
     {
-      "src": "https://fonts.googleapis.com/css2?family=Rubik+Burned&display=block",
       "name": "Rubik Burned",
+      "src": "https://fonts.googleapis.com/css2?family=Rubik+Burned&display=block",
       "weights": [400]
     },
     {
-      "src": "https://fonts.googleapis.com/css2?family=Rubik+Dirt&display=block",
       "name": "Rubik Dirt",
+      "src": "https://fonts.googleapis.com/css2?family=Rubik+Dirt&display=block",
       "weights": [400]
     },
     {
-      "src": "https://fonts.googleapis.com/css2?family=Rubik+Doodle+Shadow&display=block",
       "name": "Rubik Doodle Shadow",
+      "src": "https://fonts.googleapis.com/css2?family=Rubik+Doodle+Shadow&display=block",
       "weights": [400]
     },
     {
-      "src": "https://fonts.googleapis.com/css2?family=Rubik+Doodle+Triangles&display=block",
       "name": "Rubik Doodle Triangles",
+      "src": "https://fonts.googleapis.com/css2?family=Rubik+Doodle+Triangles&display=block",
       "weights": [400]
     },
     {
-      "src": "https://fonts.googleapis.com/css2?family=Rubik+Gemstones&display=block",
       "name": "Rubik Gemstones",
+      "src": "https://fonts.googleapis.com/css2?family=Rubik+Gemstones&display=block",
       "weights": [400]
     },
     {
-      "src": "https://fonts.googleapis.com/css2?family=Rubik+Glitch&display=block",
       "name": "Rubik Glitch Pop",
+      "src": "https://fonts.googleapis.com/css2?family=Rubik+Glitch&display=block",
       "weights": [400]
     },
     {
-      "src": "https://fonts.googleapis.com/css2?family=Rubik+Glitch+Pop&display=block",
       "name": "Rubik Glitch",
+      "src": "https://fonts.googleapis.com/css2?family=Rubik+Glitch+Pop&display=block",
       "weights": [400]
     },
     {
-      "src": "https://fonts.googleapis.com/css2?family=Rubik+Lines&display=block",
+      "name": "Rubik Iso",
+      "src": "https://fonts.googleapis.com/css2?family=Rubik+Iso&display=block",
+      "weights": [400]
+    },
+    {
       "name": "Rubik Lines",
+      "src": "https://fonts.googleapis.com/css2?family=Rubik+Lines&display=block",
       "weights": [400]
     },
     {
-      "src": "https://fonts.googleapis.com/css2?family=Rubik+Maps&display=block",
       "name": "Rubik Maps",
+      "src": "https://fonts.googleapis.com/css2?family=Rubik+Maps&display=block",
       "weights": [400]
     },
     {
-      "src": "https://fonts.googleapis.com/css2?family=Rubik+Marker+Hatch&display=block",
       "name": "Rubik Marker Hatch",
+      "src": "https://fonts.googleapis.com/css2?family=Rubik+Marker+Hatch&display=block",
       "weights": [400]
     },
     {
-      "src": "https://fonts.googleapis.com/css2?family=Rubik+Maze&display=block",
       "name": "Rubik Maze",
+      "src": "https://fonts.googleapis.com/css2?family=Rubik+Maze&display=block",
       "weights": [400]
     },
     {
-      "src": "https://fonts.googleapis.com/css2?family=Rubik+Microbe&display=block",
       "name": "Rubik Microbe",
+      "src": "https://fonts.googleapis.com/css2?family=Rubik+Microbe&display=block",
       "weights": [400]
     },
     {
-      "src": "https://fonts.googleapis.com/css2?family=Rubik+Pixels&display=block",
       "name": "Rubik Pixels",
+      "src": "https://fonts.googleapis.com/css2?family=Rubik+Pixels&display=block",
       "weights": [400]
     },
     {
-      "src": "https://fonts.googleapis.com/css2?family=Rubik+Puddles&display=block",
       "name": "Rubik Puddles",
+      "src": "https://fonts.googleapis.com/css2?family=Rubik+Puddles&display=block",
       "weights": [400]
     },
     {
-      "src": "https://fonts.googleapis.com/css2?family=Rubik+Storm&display=block",
       "name": "Rubik Storm",
+      "src": "https://fonts.googleapis.com/css2?family=Rubik+Storm&display=block",
       "weights": [400]
     },
     {
-      "src": "https://fonts.googleapis.com/css2?family=Rubik+Vinyl&display=block",
       "name": "Rubik Vinyl",
+      "src": "https://fonts.googleapis.com/css2?family=Rubik+Vinyl&display=block",
       "weights": [400]
     },
     {
-      "src": "https://fonts.googleapis.com/css2?family=Rubik+Wet+Paint&display=block",
       "name": "Rubik Wet Paint",
+      "src": "https://fonts.googleapis.com/css2?family=Rubik+Wet+Paint&display=block",
       "weights": [400]
     },
     {
-      "src": "https://fonts.googleapis.com/css2?family=Saira+Stencil+One&display=block",
+      "name": "Rye",
+      "src": "https://fonts.googleapis.com/css2?family=Rye&display=block",
+      "weights": [400]
+    },
+    {
+      "name": "Sancreek",
+      "src": "https://fonts.googleapis.com/css2?family=Sancreek&display=block",
+      "weights": [400]
+    },
+    {
       "name": "Saira Stencil One",
+      "src": "https://fonts.googleapis.com/css2?family=Saira+Stencil+One&display=block",
       "weights": [400]
     },
     {
-      "src": "https://fonts.googleapis.com/css2?family=Sour+Gummy:wght@100..900&display=block",
+      "name": "Sarina",
+      "src": "https://fonts.googleapis.com/css2?family=Sarina&display=block",
+      "weights": [400]
+    },
+    {
+      "name": "Smythe",
+      "src": "https://fonts.googleapis.com/css2?family=Smythe&display=block",
+      "weights": [400]
+    },
+    {
       "name": "Sour Gummy",
+      "src": "https://fonts.googleapis.com/css2?family=Sour+Gummy:wght@100..900&display=block",
       "weights": [100, 900],
       "variable": true,
       "variations": { "wdth": [100, 125] }
     },
     {
-      "src": "https://fonts.googleapis.com/css2?family=Stalinist+One&display=block",
-      "name": "Stalinist One",
+      "name": "Splash",
+      "src": "https://fonts.googleapis.com/css2?family=Splash&display=block",
       "weights": [400]
     },
     {
-      "src": "https://fonts.googleapis.com/css2?family=Stick+No+Bills:wght@200..800&display=block",
+      "name": "Stalinist One",
+      "src": "https://fonts.googleapis.com/css2?family=Stalinist+One&display=block",
+      "weights": [400]
+    },
+    {
       "name": "Stick No Bills",
+      "src": "https://fonts.googleapis.com/css2?family=Stick+No+Bills:wght@200..800&display=block",
       "weights": [200, 800],
       "variable": true
     },
     {
-      "src": "https://fonts.googleapis.com/css2?family=Tilt+Prism&display=block",
       "name": "Tilt Prism",
+      "src": "https://fonts.googleapis.com/css2?family=Tilt+Prism&display=block",
       "weights": [400]
     },
     {
-      "src": "https://fonts.googleapis.com/css2?family=Tourney:wdth,wght@75..125,100..900&display=block",
       "name": "Tourney",
+      "src": "https://fonts.googleapis.com/css2?family=Tourney:wdth,wght@75..125,100..900&display=block",
       "weights": [100, 900],
       "variable": true,
       "variations": { "wdth": [75, 125] }
     },
     {
-      "src": "https://fonts.googleapis.com/css2?family=Trade+Winds&display=block",
       "name": "Trade Winds",
+      "src": "https://fonts.googleapis.com/css2?family=Trade+Winds&display=block",
       "weights": [400]
     },
     {
-      "src": "https://fonts.googleapis.com/css2?family=UnifrakturMaguntia&display=block",
+      "name": "UnifrakturCook",
+      "src": "https://fonts.googleapis.com/css2?family=UnifrakturCook&display=block",
+      "weights": [400]
+    },
+    {
       "name": "UnifrakturMaguntia",
+      "src": "https://fonts.googleapis.com/css2?family=UnifrakturMaguntia&display=block",
       "weights": [400]
     },
     {
-      "src": "https://fonts.googleapis.com/css2?family=Workbench&display=block",
+      "name": "Unlock",
+      "src": "https://fonts.googleapis.com/css2?family=Unlock&display=block",
+      "weights": [400]
+    },
+    {
       "name": "Workbench",
+      "src": "https://fonts.googleapis.com/css2?family=Workbench&display=block",
+      "weights": [400]
+    },
+    {
+      "name": "Zen Tokyo Zoo",
+      "src": "https://fonts.googleapis.com/css2?family=Zen+Tokyo+Zoo&display=block",
       "weights": [400]
     }
   ]
