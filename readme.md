@@ -20,3 +20,7 @@ Does not work with font-variant-numeric:
 - Fascinate
 - Uncial Antiqua
 - Texturina
+
+Probably because it's a color font:
+
+- Foldit

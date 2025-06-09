@@ -26,6 +26,13 @@
     "weights": [400]
   },
   {
+    "src": "https://fonts.googleapis.com/css2?family=Foldit:wght@100..900&display=block",
+    "name": "Foldit",
+    "weights": [100, 900],
+    "variable": true,
+    "color": true
+  },
+  {
     "src": "https://fonts.googleapis.com/css2?family=Uncial+Antiqua&display=block",
     "name": "Uncial Antiqua",
     "weights": [400]
