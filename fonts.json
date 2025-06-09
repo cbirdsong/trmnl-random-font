@@ -304,12 +304,6 @@
       "variable": true
     },
     {
-      "src": "https://fonts.googleapis.com/css2?family=Texturina:ital,opsz,wght@0,12..72,100..900;1,12..72,100..900&display=block",
-      "name": "Texturina",
-      "weights": [100, 900],
-      "variable": true
-    },
-    {
       "src": "https://fonts.googleapis.com/css2?family=Tilt+Prism&display=block",
       "name": "Tilt Prism",
       "weights": [400]

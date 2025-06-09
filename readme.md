@@ -19,3 +19,4 @@ Does not work with font-variant-numeric:
 
 - Fascinate
 - Uncial Antiqua
+- Texturina
