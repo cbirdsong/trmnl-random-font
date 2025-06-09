@@ -2,7 +2,11 @@
 
 A bunch of interesting fonts to use for a TRMNL recipe.
 
-## Malfunctioning fonts:
+## To do:
+
+- Actually do anything with variations.
+
+### Malfunctioning fonts that would be cool to get working:
 
 Does not work with text-box-trim:
 
