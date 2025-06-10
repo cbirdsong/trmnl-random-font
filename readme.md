@@ -2,6 +2,8 @@
 
 A bunch of interesting fonts to use for a TRMNL recipe.
 
+View active fonts: https://cbirdsong.github.io/trmnl-random-font/data/fonts.json
+
 ## To do:
 
 - Actually do anything with variations.
