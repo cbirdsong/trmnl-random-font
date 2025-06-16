@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" xmlns:bx="https://boxy-svg.com">
+  <defs>
+    <bx:export>
+      <bx:file format="png" width="512" height="512" antialiasing="false" path="tear-off-calendar-icon.png"/>
+    </bx:export>
+  </defs>
+  <rect width="256" height="256" fill="none"/>
+  <rect x="40" y="40" width="176" height="176" rx="8" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="16" stroke="currentColor"/>
+  <polyline points="88 128 104 120 104 184" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="16" stroke="currentColor"/>
+  <path d="M138.14,128a16,16,0,1,1,26.64,17.63L136,184h32" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="16" stroke="currentColor"/>
+  <rect x="40" y="40" width="176" height="56.091" rx="8" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="0&quot; fill=&quot;currentColor"/>
+</svg>
