@@ -74,6 +74,11 @@
       "weights": [400]
     },
     {
+      "name": "Chicago",
+      "src": "https://cbirdsong.github.io/trmnl-design-kit/fonts/Chicago.css",
+      "weights": [400]
+    },
+    {
       "name": "Codystar",
       "src": "https://fonts.googleapis.com/css2?family=Codystar:wght@300;400&display=block",
       "weights": [300, 400],
