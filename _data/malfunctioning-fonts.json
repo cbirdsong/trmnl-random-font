@@ -14,5 +14,10 @@
     "name": "Uncial Antiqua",
     "src": "https://fonts.googleapis.com/css2?family=Uncial+Antiqua&display=block",
     "weights": [400]
+  },
+  {
+    "name": "Nabla",
+    "src": "https://fonts.googleapis.com/css2?family=Nabla&display=block",
+    "weights": [400]
   }
 ]
