@@ -502,7 +502,7 @@
     },
     {
       "name": "Zen Tokyo Zoo",
-      "src": "https://fonts.googleapis.com/css2?family=Zen+Tokyo+Zoo&display=block",
+      "src": "https://cbirdsong.github.io/trmnl-random-font/fonts/ZenTokyoZoo.css",
       "weights": [400],
       "features": {"aalt": "on", "case": "on"}
     }
