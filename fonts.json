@@ -504,7 +504,7 @@
       "name": "Zen Tokyo Zoo",
       "src": "https://cbirdsong.github.io/trmnl-random-font/fonts/ZenTokyoZoo.css",
       "weights": [400],
-      "features": {"aalt": "on", "case": "on"}
+      "features": {"case": "on"}
     }
   ]
 }
