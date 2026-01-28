@@ -62,10 +62,6 @@
       "src": "https://fonts.googleapis.com/css2?family=Cherry+Bomb+One&display=block"
     },
     {
-      "name": "Chicago",
-      "src": "https://cbirdsong.github.io/trmnl-random-font/css/Chicago.css"
-    },
-    {
       "name": "Codystar",
       "src": "https://fonts.googleapis.com/css2?family=Codystar:wght@300;400&display=block",
       "weights": [300, 400],
@@ -161,11 +157,6 @@
     {
       "name": "Jacquard 24",
       "src": "https://fonts.googleapis.com/css2?family=Jacquard+24&display=block"
-    },
-    {
-      "name": "Jet Set",
-      "src": "https://cbirdsong.github.io/trmnl-random-font/css/JetSet.css",
-      "styles": ["normal", "italic"]
     },
     {
       "name": "Kablammo",
@@ -424,17 +415,8 @@
       "src": "https://fonts.googleapis.com/css2?family=Unlock&display=block"
     },
     {
-      "name": "Veteran Typewriter",
-      "src": "https://cbirdsong.github.io/trmnl-random-font/css/VeteranTypewriter.css"
-    },
-    {
       "name": "Workbench",
       "src": "https://fonts.googleapis.com/css2?family=Workbench&display=block"
-    },
-    {
-      "name": "Zen Tokyo Zoo",
-      "src": "https://cbirdsong.github.io/trmnl-random-font/css/ZenTokyoZoo.css",
-      "features": { "case": "on" }
     }
   ]
 }
