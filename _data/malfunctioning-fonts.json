@@ -19,5 +19,12 @@
     "name": "Nabla",
     "src": "https://fonts.googleapis.com/css2?family=Nabla&display=block",
     "weights": [400]
+  },
+  {
+    "name": "Bodoni Moda SC",
+    "src": "https://fonts.googleapis.com/css2?family=Bodoni+Moda+SC:opsz,wght@6..96,400..900&display=block",
+    "weights": [400, 900],
+    "variable": true,
+    "reason": "too thin, try changing optical size? https://fonts.google.com/specimen/Bodoni+Moda/tester?query=Bodoni+Moda+SC"
   }
 ]
