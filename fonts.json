@@ -164,7 +164,7 @@
     },
     {
       "name": "Jet Set",
-      "src": "https://cbirdsong.github.io/trmnl-random-font/css/JetSet.css",
+      "src": "https://cbirdsong.github.io/trmnl-random-font/css/Jet-Set.css",
       "styles": ["normal", "italic"]
     },
     {
@@ -425,7 +425,7 @@
     },
     {
       "name": "Veteran Typewriter",
-      "src": "https://cbirdsong.github.io/trmnl-random-font/css/VeteranTypewriter.css"
+      "src": "https://cbirdsong.github.io/trmnl-random-font/css/Veteran-Typewriter.css"
     },
     {
       "name": "Workbench",
@@ -433,7 +433,7 @@
     },
     {
       "name": "Zen Tokyo Zoo",
-      "src": "https://cbirdsong.github.io/trmnl-random-font/css/ZenTokyoZoo.css",
+      "src": "https://cbirdsong.github.io/trmnl-random-font/css/Zen-Tokyo-Zoo.css",
       "features": { "case": "on" }
     }
   ]
