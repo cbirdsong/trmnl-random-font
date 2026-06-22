@@ -26,5 +26,10 @@
     "weights": [400, 900],
     "variable": true,
     "reason": "too thin, try changing optical size? https://fonts.google.com/specimen/Bodoni+Moda/tester?query=Bodoni+Moda+SC"
+  },
+  {
+    "name": "Asset",
+    "src": "https://fonts.googleapis.com/css2?family=Asset&display=block"
+    "reason": "too wide"
   }
 ]
